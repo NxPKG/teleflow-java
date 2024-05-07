@@ -13,8 +13,8 @@ public class TeleflowConfig {
     }
 
     private String apiKey;
-    private String baseUrl = "https://api.teleflow.co/v1/";
-    private String euBaseUrl = "https://eu.api.teleflow.co/v1/";
+    private String baseUrl = "https://api-teleflow.khulnasoft.com/v1/";
+    private String euBaseUrl = "https://eu.api-teleflow.khulnasoft.com/v1/";
     private boolean enableEuVersion;
     private boolean enableLogging = true;
     private HttpLoggingInterceptor.Level apiLogLevel = HttpLoggingInterceptor.Level.BASIC;
