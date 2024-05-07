@@ -3,13 +3,13 @@
 [![License](https://poser.pugx.org/unicodeveloper/teleflow/license.svg)](LICENSE.md)
 [![GitHub release (with filter)](https://img.shields.io/github/v/release/nxpkg/teleflow-java?label=SDK&link=https%3A%2F%2Fgithub.com%2Fnxpkg%2Fteleflow-java%2Freleases%2Flatest)](https://github.com/nxpkg/teleflow-java/releases/latest)
 
-The [Teleflow Java](https://teleflow.khulnasoft.com) SDK provides a fluent and expressive interface for interacting with [Teleflow's API](https://docs.teleflow.co/api-reference/overview) and managing notifications. Please refer to the full [documentation](https://docs.teleflow.co/docs/overview/introduction) to learn more.
+The [Teleflow Java](https://teleflow.khulnasoft.com) SDK provides a fluent and expressive interface for interacting with [Teleflow's API](https://docs.teleflow.khulnasoft.com/api-reference/overview) and managing notifications. Please refer to the full [documentation](https://docs.teleflow.khulnasoft.com/docs/overview/introduction) to learn more.
 
 ## Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
-    * [Teleflow API Reference](https://docs.teleflow.co/api-reference/events/trigger-event)
+    * [Teleflow API Reference](https://docs.teleflow.khulnasoft.com/api-reference/events/trigger-event)
     * [Events](#events)
     * [Subscribers](#subscribers)
     * [Topics](#topics)
@@ -71,7 +71,7 @@ public class Main {
     }
 }
 
-// Sign up on https://web.teleflow.co and grab your API key from https://web.teleflow.co/settings
+// Sign up on https://web.teleflow.khulnasoft.com and grab your API key from https://web.teleflow.khulnasoft.com/settings
 ```
 
 ### Events
@@ -447,7 +447,7 @@ public class Main {
 - `updateTenant(body, identifier)`
 - `deleteTenant(identifier)`
 
-### For more information about these methods and their parameters, see the [API documentation](https://docs.teleflow.co/api/overview).
+### For more information about these methods and their parameters, see the [API documentation](https://docs.teleflow.khulnasoft.com/api/overview).
 
 ## Contributing
 
@@ -455,8 +455,8 @@ Feature requests, bug reports and pull requests are welcome. Please create an [i
 
 ## Support and Feedback
 
-Be sure to visit the Teleflow official [documentation website](https://docs.teleflow.co/docs) for additional information about our API.
-If you need additional assistance, join our Discord server [here](https://discord.teleflow.co).
+Be sure to visit the Teleflow official [documentation website](https://docs.teleflow.khulnasoft.com/docs) for additional information about our API.
+If you need additional assistance, join our Discord server [here](https://discord.teleflow.khulnasoft.com).
 
 ## License
 
